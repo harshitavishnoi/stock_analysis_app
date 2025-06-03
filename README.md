@@ -10,6 +10,6 @@ pip install pandas
 pip install plotly
 pip install numpy
 
+# start the sever
 
-# start the sever 
 streamlit run trading_app.py
